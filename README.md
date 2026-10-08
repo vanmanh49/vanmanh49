@@ -1,8 +1,6 @@
 # Hi, I'm Manh Luu 👋
 
-Software developer based in Ho Chi Minh City, Vietnam. I build backend systems with Java and Spring Boot, and interactive web apps with React and TypeScript.
-
-Currently learning blockchain.
+Senior Software Engineer based in Ho Chi Minh City, Vietnam. I build backend systems with Java and Spring Boot, and interactive web apps with React and TypeScript.
 
 ## Tech stack
 
