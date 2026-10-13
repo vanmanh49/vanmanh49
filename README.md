@@ -12,11 +12,19 @@ Senior Software Engineer based in Ho Chi Minh City, Vietnam. I build backend sys
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-## Projects
+## Live sites
 
-- **[AI Steps](https://vanmanh49.github.io/ai-steps/)**: learn about AI and AI agents in short lessons with quizzes, in English and Vietnamese ([source](https://github.com/vanmanh49/ai-steps))
-- **[PathViz](https://vanmanh49.github.io/pathviz/)**: interactive visualizer for shortest-path and graph-search algorithms, with step-by-step forward and backward playback ([source](https://github.com/vanmanh49/pathviz))
-- **[Stepwise](https://vanmanh49.github.io/stepwise/)**: learn data structures and algorithms visually, with interactive, step-by-step lessons ([source](https://github.com/vanmanh49/stepwise))
+| Project | What it is | Open the site |
+| --- | --- | --- |
+| AI Steps | Learn about AI and AI agents in short lessons with quizzes, in English and Vietnamese | 🌐 <https://vanmanh49.github.io/ai-steps/> |
+| PathViz | Interactive visualizer for shortest-path and graph-search algorithms, with step-by-step forward and backward playback | 🌐 <https://vanmanh49.github.io/pathviz/> |
+| Stepwise | Learn data structures and algorithms visually, with interactive, step-by-step lessons | 🌐 <https://vanmanh49.github.io/stepwise/> |
+
+## Source code
+
+- [vanmanh49/ai-steps](https://github.com/vanmanh49/ai-steps)
+- [vanmanh49/pathviz](https://github.com/vanmanh49/pathviz)
+- [vanmanh49/stepwise](https://github.com/vanmanh49/stepwise)
 
 ## Contact
 
