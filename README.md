@@ -17,6 +17,7 @@ Senior Software Engineer based in Ho Chi Minh City, Vietnam. I build backend sys
 | Project | What it is | Open the site |
 | --- | --- | --- |
 | [AI Steps](https://github.com/vanmanh49/ai-steps) | Learn about AI and AI agents in short lessons with quizzes, in English and Vietnamese | 🌐 <https://vanmanh49.github.io/ai-steps/> |
+| [Explore Vietnam](https://github.com/vanmanh49/explore-vietnam) | Interactive 3D map of Vietnam with sixteen destinations, a north-to-south scroll journey, and a guide for each place | 🌐 <https://vanmanh49.github.io/explore-vietnam/> |
 | [PathViz](https://github.com/vanmanh49/pathviz) | Interactive visualizer for shortest-path and graph-search algorithms, with step-by-step forward and backward playback | 🌐 <https://vanmanh49.github.io/pathviz/> |
 | [Stepwise](https://github.com/vanmanh49/stepwise) | Learn data structures and algorithms visually, with interactive, step-by-step lessons | 🌐 <https://vanmanh49.github.io/stepwise/> |
 
