@@ -21,7 +21,7 @@ Senior Software Engineer based in Ho Chi Minh City, Vietnam. I design backend sy
 
 | Project | Description | Stack | |
 | --- | --- | --- | --- |
-| **[Stepwise](https://github.com/vanmanh49/stepwise)** | Learn data structures and algorithms through interactive, step-by-step lessons | TypeScript | [![Try it live](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20live-2ea44f?style=for-the-badge)](https://vanmanh49.github.io/stepwise/) |
+| **[Stepwise](https://github.com/vanmanh49/stepwise)** | Learn data structures, algorithms, SQL and microservices by watching them run, step by step, with quizzes and exercises | React, TypeScript | [![Try it live](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20live-2ea44f?style=for-the-badge)](https://vanmanh49.github.io/stepwise/) |
 | **[PathViz](https://github.com/vanmanh49/pathviz)** | Shortest-path and graph-search visualizer with forward and backward playback | TypeScript | [![Try it live](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20live-2ea44f?style=for-the-badge)](https://vanmanh49.github.io/pathviz/) |
 | **[AI Steps](https://github.com/vanmanh49/ai-steps)** | Short lessons with quizzes on AI and AI agents, in English and Vietnamese | JavaScript | [![Try it live](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20live-2ea44f?style=for-the-badge)](https://vanmanh49.github.io/ai-steps/) |
 | **[Explore Vietnam](https://github.com/vanmanh49/explore-vietnam)** | Interactive 3D terrain map of Vietnam with sixteen destinations | TypeScript | [![Try it live](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20live-2ea44f?style=for-the-badge)](https://vanmanh49.github.io/explore-vietnam/) |
