@@ -1,6 +1,10 @@
-# Manh Luu
+<h1 align="center">Manh Luu</h1>
+<p align="center">
+  <b>Senior Software Engineer</b> · Backend & Web Apps<br>
+  <sub>Ho Chi Minh City, Vietnam</sub>
+</p>
 
-Senior Software Engineer based in Ho Chi Minh City, Vietnam. I design backend systems with Java, Spring Boot and Kafka, and build interactive web apps with React and TypeScript.
+I design backend systems with Java, Spring Boot and Kafka, and build interactive web apps with React and TypeScript.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
