@@ -19,7 +19,7 @@ Senior Software Engineer based in Ho Chi Minh City, Vietnam. I design backend sy
 
 ## Web apps
 
-| Project | Description | Stack | &nbsp;&nbsp;Live&nbsp;site&nbsp;&nbsp; |
+| Project | Description | Stack | Live&nbsp;website |
 | --- | --- | --- | --- |
 | **[Stepwise](https://github.com/vanmanh49/stepwise)** | Learn data structures, algorithms, SQL and microservices by watching them run, step by step, with quizzes and exercises | React, TypeScript | [![Try it live](assets/try-it-live.svg)](https://vanmanh49.github.io/stepwise/) |
 | **[PathViz](https://github.com/vanmanh49/pathviz)** | Shortest-path and graph-search visualizer with forward and backward playback | TypeScript | [![Try it live](assets/try-it-live.svg)](https://vanmanh49.github.io/pathviz/) |
@@ -28,7 +28,7 @@ Senior Software Engineer based in Ho Chi Minh City, Vietnam. I design backend sy
 
 ## Games
 
-| Project | Description | Stack | &nbsp;&nbsp;Live&nbsp;site&nbsp;&nbsp; |
+| Project | Description | Stack | Live&nbsp;website |
 | --- | --- | --- | --- |
 | **[Caro](https://github.com/vanmanh49/caro-game)** | Gomoku with four AI levels; Expert runs alpha-beta search in a Web Worker | React, TypeScript | [![Play now](assets/play-now.svg)](https://vanmanh49.github.io/caro-game/) |
 | **[Low-Poly GP](https://github.com/vanmanh49/low-poly-gp)** | 3D racing game: three laps against four AI drivers | Three.js | [![Play now](assets/play-now.svg)](https://vanmanh49.github.io/low-poly-gp/) |
