@@ -19,18 +19,18 @@ Senior Software Engineer based in Ho Chi Minh City, Vietnam. I design backend sy
 
 ## Web apps
 
-| Project | Description | Stack | |
-| --- | --- | --- | --- |
-| **[Stepwise](https://github.com/vanmanh49/stepwise)** | Learn data structures, algorithms, SQL and microservices by watching them run, step by step, with quizzes and exercises | React, TypeScript | [![Try it live](assets/try-it-live.svg)](https://vanmanh49.github.io/stepwise/) |
-| **[PathViz](https://github.com/vanmanh49/pathviz)** | Shortest-path and graph-search visualizer with forward and backward playback | TypeScript | [![Try it live](assets/try-it-live.svg)](https://vanmanh49.github.io/pathviz/) |
-| **[AI Steps](https://github.com/vanmanh49/ai-steps)** | Short lessons with quizzes on AI and AI agents, in English and Vietnamese | JavaScript | [![Try it live](assets/try-it-live.svg)](https://vanmanh49.github.io/ai-steps/) |
-| **[Explore Vietnam](https://github.com/vanmanh49/explore-vietnam)** | Interactive 3D terrain map of Vietnam with sixteen destinations | TypeScript | [![Try it live](assets/try-it-live.svg)](https://vanmanh49.github.io/explore-vietnam/) |
+| Project | Description | Stack |
+| --- | --- | --- |
+| **[Stepwise](https://github.com/vanmanh49/stepwise)** | Learn data structures, algorithms, SQL and microservices by watching them run, step by step, with quizzes and exercises<br><br>[![Try it live](assets/try-it-live.svg)](https://vanmanh49.github.io/stepwise/) | React, TypeScript |
+| **[PathViz](https://github.com/vanmanh49/pathviz)** | Shortest-path and graph-search visualizer with forward and backward playback<br><br>[![Try it live](assets/try-it-live.svg)](https://vanmanh49.github.io/pathviz/) | TypeScript |
+| **[AI Steps](https://github.com/vanmanh49/ai-steps)** | Short lessons with quizzes on AI and AI agents, in English and Vietnamese<br><br>[![Try it live](assets/try-it-live.svg)](https://vanmanh49.github.io/ai-steps/) | JavaScript |
+| **[Explore Vietnam](https://github.com/vanmanh49/explore-vietnam)** | Interactive 3D terrain map of Vietnam with sixteen destinations<br><br>[![Try it live](assets/try-it-live.svg)](https://vanmanh49.github.io/explore-vietnam/) | TypeScript |
 
 ## Games
 
-| Project | Description | Stack | |
-| --- | --- | --- | --- |
-| **[Caro](https://github.com/vanmanh49/caro-game)** | Gomoku with four AI levels; Expert runs alpha-beta search in a Web Worker | React, TypeScript | [![Play now](assets/play-now.svg)](https://vanmanh49.github.io/caro-game/) |
-| **[Low-Poly GP](https://github.com/vanmanh49/low-poly-gp)** | 3D racing game: three laps against four AI drivers | Three.js | [![Play now](assets/play-now.svg)](https://vanmanh49.github.io/low-poly-gp/) |
-| **[Pixel Plumber](https://github.com/vanmanh49/pixel-plumber)** | Platformer with three levels, no dependencies | Canvas, WebAudio | [![Play now](assets/play-now.svg)](https://vanmanh49.github.io/pixel-plumber/) |
-| **[Flappy Bird](https://github.com/vanmanh49/flappy-bird)** | Flappy Bird clone | React, Vite | [![Play now](assets/play-now.svg)](https://vanmanh49.github.io/flappy-bird/) |
+| Project | Description | Stack |
+| --- | --- | --- |
+| **[Caro](https://github.com/vanmanh49/caro-game)** | Gomoku with four AI levels; Expert runs alpha-beta search in a Web Worker<br><br>[![Play now](assets/play-now.svg)](https://vanmanh49.github.io/caro-game/) | React, TypeScript |
+| **[Low-Poly GP](https://github.com/vanmanh49/low-poly-gp)** | 3D racing game: three laps against four AI drivers<br><br>[![Play now](assets/play-now.svg)](https://vanmanh49.github.io/low-poly-gp/) | Three.js |
+| **[Pixel Plumber](https://github.com/vanmanh49/pixel-plumber)** | Platformer with three levels, no dependencies<br><br>[![Play now](assets/play-now.svg)](https://vanmanh49.github.io/pixel-plumber/) | Canvas, WebAudio |
+| **[Flappy Bird](https://github.com/vanmanh49/flappy-bird)** | Flappy Bird clone<br><br>[![Play now](assets/play-now.svg)](https://vanmanh49.github.io/flappy-bird/) | React, Vite |
