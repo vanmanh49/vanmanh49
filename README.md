@@ -13,22 +13,24 @@ Senior Software Engineer based in Ho Chi Minh City, Vietnam. I design backend sy
 
 ## Backend
 
-**[Shop Microservices](https://github.com/vanmanh49/shop-microservices)**: a Spring Boot microservices reference system with service discovery, centralized config, an API gateway, JWT auth, Kafka events and distributed tracing. Runs on Docker Compose or Kubernetes.
+| Project | Description | Stack |
+| --- | --- | --- |
+| **[Shop Microservices](https://github.com/vanmanh49/shop-microservices)** | Microservices reference system: service discovery, centralized config, API gateway, JWT auth, Kafka events, distributed tracing. Runs on Docker Compose or Kubernetes | Spring Boot, Kafka, PostgreSQL |
 
 ## Web apps
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [Stepwise](https://github.com/vanmanh49/stepwise) · [live](https://vanmanh49.github.io/stepwise/) | Learn data structures and algorithms through interactive, step-by-step lessons | TypeScript |
-| [PathViz](https://github.com/vanmanh49/pathviz) · [live](https://vanmanh49.github.io/pathviz/) | Shortest-path and graph-search visualizer with forward and backward playback | TypeScript |
-| [AI Steps](https://github.com/vanmanh49/ai-steps) · [live](https://vanmanh49.github.io/ai-steps/) | Short lessons with quizzes on AI and AI agents, in English and Vietnamese | JavaScript |
-| [Explore Vietnam](https://github.com/vanmanh49/explore-vietnam) · [live](https://vanmanh49.github.io/explore-vietnam/) | Interactive 3D terrain map of Vietnam with sixteen destinations | TypeScript |
+| Project | Description | Stack | |
+| --- | --- | --- | --- |
+| **[Stepwise](https://github.com/vanmanh49/stepwise)** | Learn data structures and algorithms through interactive, step-by-step lessons | TypeScript | [![Try it live](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20live-2ea44f?style=for-the-badge)](https://vanmanh49.github.io/stepwise/) |
+| **[PathViz](https://github.com/vanmanh49/pathviz)** | Shortest-path and graph-search visualizer with forward and backward playback | TypeScript | [![Try it live](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20live-2ea44f?style=for-the-badge)](https://vanmanh49.github.io/pathviz/) |
+| **[AI Steps](https://github.com/vanmanh49/ai-steps)** | Short lessons with quizzes on AI and AI agents, in English and Vietnamese | JavaScript | [![Try it live](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20live-2ea44f?style=for-the-badge)](https://vanmanh49.github.io/ai-steps/) |
+| **[Explore Vietnam](https://github.com/vanmanh49/explore-vietnam)** | Interactive 3D terrain map of Vietnam with sixteen destinations | TypeScript | [![Try it live](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20live-2ea44f?style=for-the-badge)](https://vanmanh49.github.io/explore-vietnam/) |
 
 ## Games
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [Caro](https://github.com/vanmanh49/caro-game) · [live](https://vanmanh49.github.io/caro-game/) | Gomoku with four AI levels; Expert runs alpha-beta search in a Web Worker | React, TypeScript |
-| [Low-Poly GP](https://github.com/vanmanh49/low-poly-gp) · [live](https://vanmanh49.github.io/low-poly-gp/) | 3D racing game: three laps against four AI drivers | Three.js |
-| [Pixel Plumber](https://github.com/vanmanh49/pixel-plumber) · [live](https://vanmanh49.github.io/pixel-plumber/) | Platformer with three levels, no dependencies | Canvas, WebAudio |
-| [Flappy Bird](https://github.com/vanmanh49/flappy-bird) · [live](https://vanmanh49.github.io/flappy-bird/) | Flappy Bird clone | React, Vite |
+| Project | Description | Stack | |
+| --- | --- | --- | --- |
+| **[Caro](https://github.com/vanmanh49/caro-game)** | Gomoku with four AI levels; Expert runs alpha-beta search in a Web Worker | React, TypeScript | [![Play now](https://img.shields.io/badge/%E2%96%B6%20Play%20now-e05d44?style=for-the-badge)](https://vanmanh49.github.io/caro-game/) |
+| **[Low-Poly GP](https://github.com/vanmanh49/low-poly-gp)** | 3D racing game: three laps against four AI drivers | Three.js | [![Play now](https://img.shields.io/badge/%E2%96%B6%20Play%20now-e05d44?style=for-the-badge)](https://vanmanh49.github.io/low-poly-gp/) |
+| **[Pixel Plumber](https://github.com/vanmanh49/pixel-plumber)** | Platformer with three levels, no dependencies | Canvas, WebAudio | [![Play now](https://img.shields.io/badge/%E2%96%B6%20Play%20now-e05d44?style=for-the-badge)](https://vanmanh49.github.io/pixel-plumber/) |
+| **[Flappy Bird](https://github.com/vanmanh49/flappy-bird)** | Flappy Bird clone | React, Vite | [![Play now](https://img.shields.io/badge/%E2%96%B6%20Play%20now-e05d44?style=for-the-badge)](https://vanmanh49.github.io/flappy-bird/) |
