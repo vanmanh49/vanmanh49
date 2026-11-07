@@ -30,6 +30,7 @@ I design backend systems with Java, Spring Boot and Kafka, and build interactive
 | **[AI Steps](https://github.com/vanmanh49/ai-steps)** | Short lessons with quizzes on AI and AI agents, in English and Vietnamese | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | [![Try it live](assets/try-it-live.svg)](https://vanmanh49.github.io/ai-steps/) |
 | **[How Things Work](https://github.com/vanmanh49/how-things-work)** | Interactive 3D explainers of a 4-stroke engine and the Sun, Earth and Moon: a guided scroll story, then a sandbox to experiment in | ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white) | [![Try it live](assets/try-it-live.svg)](https://vanmanh49.github.io/how-things-work/) |
 | **[Explore Vietnam](https://github.com/vanmanh49/explore-vietnam)** | Interactive 3D terrain map of Vietnam with sixteen destinations | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | [![Try it live](assets/try-it-live.svg)](https://vanmanh49.github.io/explore-vietnam/) |
+| **[Text & JSON Tools](https://github.com/vanmanh49/text-json-tools)** | Browser-only JSON formatter, side-by-side compare & merge, escape/unescape and minify. Nothing is uploaded | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | [![Try it live](assets/try-it-live.svg)](https://vanmanh49.github.io/text-json-tools/) |
 
 ## Games
 
